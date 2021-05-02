@@ -8,4 +8,4 @@ I loved programming since the first contact I had with it (2015), first in digit
 - 📫 How to reach me: 
 - email: debnoemy@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I like to learn new things in diferent areas
+- ⚡ Fun fact: I like to learn new things in diferent areas like art and history
