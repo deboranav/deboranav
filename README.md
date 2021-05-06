@@ -4,7 +4,7 @@ I work with Educational Robotics since I was 15, it teach me so many things like
 I loved programming since the first contact I had with it (2015), first in digital eletronics stuff, now I'm learn different kinds of coding and I'm exciting about it. 😄
 
 - 🔭 I’m currently working on LAR - UFRN, with Educational Robotics in Robótica no NEI project
-- 🌱 I’m currently learning Web Development and IA
+- 🌱 I’m currently learning Web Development and AI
 - 📫 How to reach me: 
 - email: debnoemy@gmail.com
 - 😄 Pronouns: she/her
